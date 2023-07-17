@@ -14,6 +14,8 @@ FN_JS : 서길동 <br/>
 ## Description
 ##### -
 
+## Site
+##### https://fn-bn-edu-organization.github.io/PJ_FN_TEAM_05/
 ## 강사 Comment 
 ##### - HTML 구조 먼저 만들기
 ##### - 선택자에 맞는 CSS 구성
